@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+body {
+    font-family: Caveat;
+}
+
+#body {
+    background-image: url("../img/25.jpg");
+    background-attachment: fixed;
+}
+
+.menu {
+    margin-top: 170px;
+}
+
+.menu {
+    margin-bottom: 1000px;
+}
